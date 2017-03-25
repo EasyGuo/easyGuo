@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\asus\Desktop\android02180021-master\04 Android Layout\tablelayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e87c15c429ba09b9e57d398ad2f2f7e05cfa0f84">
+        <dex dex="C:\Users\asus\Desktop\android02180021-master\04 Android Layout\tablelayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8daaa47c0fd6375bb1da2849b40a36cfe302d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asus\Desktop\android02180021-master\04 Android Layout\tablelayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5144cb43f5597488be6af4b5215f63a506808dd0">
+        <dex dex="C:\Users\asus\Desktop\android02180021-master\04 Android Layout\tablelayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_576b44f1d847544c800de913cf01f7b6212152a4\classes.dex" />
+    </item>
+
+</items>

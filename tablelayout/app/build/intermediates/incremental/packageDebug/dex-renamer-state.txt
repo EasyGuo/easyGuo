@@ -1,0 +1,7 @@
+#Sun Mar 19 15:12:34 CST 2017
+base.0=C\:\\Users\\asus\\Desktop\\android02180021-master\\04 Android Layout\\tablelayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_576b44f1d847544c800de913cf01f7b6212152a4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\asus\\Desktop\\android02180021-master\\04 Android Layout\\tablelayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8daaa47c0fd6375bb1da2849b40a36cfe302d55\\classes.dex
+base.1=C\:\\Users\\asus\\Desktop\\android02180021-master\\04 Android Layout\\tablelayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8daaa47c0fd6375bb1da2849b40a36cfe302d55
+file.0=C\:\\Users\\asus\\Desktop\\android02180021-master\\04 Android Layout\\tablelayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_576b44f1d847544c800de913cf01f7b6212152a4\\classes.dex
